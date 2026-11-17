@@ -6,7 +6,8 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1TqDhGdOG3aF003D_O9cwTeCgwOE73RXi/view?usp=sharing)
+(countGrades, average, and officeHours)
 
 **Week 12 · Project 3**  
 **Theme:** Project 2’s report, on fifty random scores  
